@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"media": 
+        "https://img.icons8.com/?size=100&id=18901&format=png&color=000000"
+    },
+      "geometry": {
+        "coordinates": [
+          51.38950694038917,
+          35.68787279014643
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    }
+  ]
+}
